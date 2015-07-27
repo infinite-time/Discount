@@ -1,0 +1,12 @@
+c:\Users\ing07444\documents\visual studio 2013\Projects\Discount\BillInput\bin\Debug\BillInput.exe.config
+c:\Users\ing07444\documents\visual studio 2013\Projects\Discount\BillInput\obj\Debug\BillInput.csprojResolveAssemblyReference.cache
+c:\Users\ing07444\documents\visual studio 2013\Projects\Discount\BillInput\bin\Debug\BillInput.exe
+c:\Users\ing07444\documents\visual studio 2013\Projects\Discount\BillInput\bin\Debug\BillInput.pdb
+c:\Users\ing07444\documents\visual studio 2013\Projects\Discount\BillInput\bin\Debug\Discount.dll
+c:\Users\ing07444\documents\visual studio 2013\Projects\Discount\BillInput\bin\Debug\Discount.pdb
+c:\Users\ing07444\documents\visual studio 2013\Projects\Discount\BillInput\obj\Debug\BillInput.exe
+c:\Users\ing07444\documents\visual studio 2013\Projects\Discount\BillInput\obj\Debug\BillInput.pdb
+c:\Users\ing07444\documents\visual studio 2013\Projects\Discount\BillInput\bin\Debug\ApplicableDiscounts\AffiliateDiscount.xml
+c:\Users\ing07444\documents\visual studio 2013\Projects\Discount\BillInput\bin\Debug\ApplicableDiscounts\CustomerDiscount.xml
+c:\Users\ing07444\documents\visual studio 2013\Projects\Discount\BillInput\bin\Debug\ApplicableDiscounts\EmployeeDiscount.xml
+c:\Users\ing07444\documents\visual studio 2013\Projects\Discount\BillInput\bin\Debug\ApplicableDiscounts\GeneralDiscount.xml

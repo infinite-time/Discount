@@ -1,0 +1,8 @@
+c:\users\ing07444\documents\visual studio 2013\Projects\Discount\Discount\bin\Debug\Discount.dll
+c:\users\ing07444\documents\visual studio 2013\Projects\Discount\Discount\bin\Debug\Discount.pdb
+c:\users\ing07444\documents\visual studio 2013\Projects\Discount\Discount\obj\Debug\Discount.dll
+c:\users\ing07444\documents\visual studio 2013\Projects\Discount\Discount\obj\Debug\Discount.pdb
+c:\users\ing07444\documents\visual studio 2013\Projects\Discount\Discount\bin\Debug\ApplicableDiscounts\AffiliateDiscount.xml
+c:\users\ing07444\documents\visual studio 2013\Projects\Discount\Discount\bin\Debug\ApplicableDiscounts\CustomerDiscount.xml
+c:\users\ing07444\documents\visual studio 2013\Projects\Discount\Discount\bin\Debug\ApplicableDiscounts\EmployeeDiscount.xml
+c:\users\ing07444\documents\visual studio 2013\Projects\Discount\Discount\bin\Debug\ApplicableDiscounts\GeneralDiscount.xml

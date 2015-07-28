@@ -24,14 +24,14 @@
   <Class Name="Discount.UserData">
     <Position X="9.75" Y="1.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAACAQAAAgAAAAAAAAAAQAAAAEAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAgAAAAAAAAAAQAAAAEAAAA=</HashCode>
       <FileName>Models\UserData.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Discount.Affiliate" BaseTypeListCollapsed="true">
     <Position X="7.25" Y="1.5" Width="2" />
     <TypeIdentifier>
-      <HashCode>AAhAAAAAAAiAAAAAAgAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <HashCode>AAhAAAAAAAiAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
       <FileName>Users\Affiliate.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" Collapsed="true" />
@@ -39,7 +39,7 @@
   <Class Name="Discount.Customer" BaseTypeListCollapsed="true">
     <Position X="4.75" Y="1.5" Width="2" />
     <TypeIdentifier>
-      <HashCode>AAhAAAAABAiAAAAAAgAAAAAABAAAAAAAAAAAAAAgAAA=</HashCode>
+      <HashCode>AAhAAAAABAiAAAAAAAAAAAAABAAAAAAAAAAAAAAgAAA=</HashCode>
       <FileName>Users\Customer.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" Collapsed="true" />
@@ -47,15 +47,22 @@
   <Class Name="Discount.Employee" BaseTypeListCollapsed="true">
     <Position X="2.5" Y="1.5" Width="2" />
     <TypeIdentifier>
-      <HashCode>AAhAAAAAAAiAAAAAAgAAAAAAAAAAAAAAAAAAAAAwAAA=</HashCode>
+      <HashCode>AAhAAAAAAAiAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAA=</HashCode>
       <FileName>Users\Employee.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" Collapsed="true" />
   </Class>
+  <Class Name="Discount.Models.DiscountResult" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAgAAAAIAAAAAIAAAACA=</HashCode>
+      <FileName>Models\DiscountResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
   <Interface Name="Discount.IUser">
     <Position X="0.5" Y="1.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AABAAAAAAAgAAAAAAgAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <HashCode>AABAAAAAAAiAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
       <FileName>Users\IUser.cs</FileName>
     </TypeIdentifier>
   </Interface>

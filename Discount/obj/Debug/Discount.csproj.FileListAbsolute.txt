@@ -6,3 +6,11 @@ c:\users\ing07444\documents\visual studio 2013\Projects\Discount\Discount\bin\De
 c:\users\ing07444\documents\visual studio 2013\Projects\Discount\Discount\bin\Debug\ApplicableDiscounts\CustomerDiscount.xml
 c:\users\ing07444\documents\visual studio 2013\Projects\Discount\Discount\bin\Debug\ApplicableDiscounts\EmployeeDiscount.xml
 c:\users\ing07444\documents\visual studio 2013\Projects\Discount\Discount\bin\Debug\ApplicableDiscounts\GeneralDiscount.xml
+C:\Users\ing07444\Documents\GitHub\Discount\Discount\bin\Debug\ApplicableDiscounts\AffiliateDiscount.xml
+C:\Users\ing07444\Documents\GitHub\Discount\Discount\bin\Debug\ApplicableDiscounts\CustomerDiscount.xml
+C:\Users\ing07444\Documents\GitHub\Discount\Discount\bin\Debug\ApplicableDiscounts\EmployeeDiscount.xml
+C:\Users\ing07444\Documents\GitHub\Discount\Discount\bin\Debug\ApplicableDiscounts\GeneralDiscount.xml
+C:\Users\ing07444\Documents\GitHub\Discount\Discount\bin\Debug\Discount.dll
+C:\Users\ing07444\Documents\GitHub\Discount\Discount\bin\Debug\Discount.pdb
+C:\Users\ing07444\Documents\GitHub\Discount\Discount\obj\Debug\Discount.dll
+C:\Users\ing07444\Documents\GitHub\Discount\Discount\obj\Debug\Discount.pdb

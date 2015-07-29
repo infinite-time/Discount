@@ -1,0 +1,2 @@
+# Discount
+This project gives a simple example of using object oriented designing to develop a component which can calculcate discounts for users based on bill amount. It provides an easy way of configuring the discounts without changing the code. Also, it enables adding new types of users with minimal additions to code. The principles of SOLID design have been followed to keep the code simple and easy to understand.
